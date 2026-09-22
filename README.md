@@ -2,15 +2,11 @@
 
 A single-file Three.js app with two switchable cities: 15 places in Futian, Shenzhen, and 15 places around Gion and Higashiyama, Kyoto.
 
-## Start locally
+## Open the live website
 
-With Python 3 installed, run this command from the folder containing `index.html` (the repository root):
+[Explore City Miniatures — Shenzhen & Kyoto](https://shankao1008-ui.github.io/city-miniatures/)
 
-```sh
-python3 -m http.server 8765 --bind 127.0.0.1
-```
-
-Open http://127.0.0.1:8765 in a modern WebGL-capable browser. If that port is occupied, substitute another port, such as 8766, in both the command and address.
+Anyone can open this public HTML project in a modern WebGL-capable browser. No installation or GitHub account is required. Share the link above with others.
 
 There is no build step. The application, styles, geometry, and destination data are all in `index.html`. Internet access is required to load Three.js 0.170.0 and OrbitControls from jsDelivr; no API key is needed.
 
@@ -23,7 +19,7 @@ Use the city selector in the header to switch between Shenzhen, China and Kyoto,
 - Search English or Chinese names and filter by neighborhood or type.
 - Start Flight Mode for a seven-stop camera tour. Interacting with the scene stops the tour; Escape closes panels and stops it.
 - Add places to My itinerary. Reorder stops using the up arrows, remove stops, or export a text itinerary.
-- The itinerary is saved in this browser’s local storage, for this localhost address. Clearing browser storage removes it. Another port or browser has its own itinerary.
+- The itinerary is saved in this browser’s local storage, for this website. Clearing browser storage removes it. Another browser or device has its own itinerary.
 - Use the sun button for evening lighting and the home button to restore the overview. On narrow screens, open the place list with the menu button.
 
 ## Scope and accuracy
