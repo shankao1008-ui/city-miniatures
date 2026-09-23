@@ -1,10 +1,10 @@
-# Shenzhen, Kyoto & Da Nang, in miniature
+# Shenzhen, Kyoto, Da Nang & Vlissingen, in miniature
 
-A single-file Three.js app with three switchable cities: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; and 15 from the Han River to My Khe Beach, Da Nang.
+A single-file Three.js app with four switchable cities: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; and 15 around the old harbor and boulevard of Vlissingen, Netherlands.
 
 ## Open the live website
 
-[Explore City Miniatures — Shenzhen, Kyoto & Da Nang](https://shankao1008-ui.github.io/city-miniatures/)
+[Explore City Miniatures — Shenzhen, Kyoto, Da Nang & Vlissingen](https://shankao1008-ui.github.io/city-miniatures/)
 
 Anyone can open this public HTML project in a modern WebGL-capable browser. No installation or GitHub account is required. Share the link above with others.
 
@@ -12,9 +12,11 @@ There is no build step. The application, styles, geometry, and destination data 
 
 [Open Da Nang directly](https://shankao1008-ui.github.io/city-miniatures/?city=danang)
 
+[Open Vlissingen directly](https://shankao1008-ui.github.io/city-miniatures/?city=vlissingen)
+
 ## Explore and plan
 
-Use the city selector in the header to switch between Shenzhen, China; Kyoto, Japan; and Da Nang, Vietnam without leaving the page. Each city has its own miniature, neighborhoods, filters, flight tour, map links, and saved itinerary. Switching resets the view and stops the tour. The last selected city is remembered in this browser.
+Use the city selector in the header to switch between Shenzhen, China; Kyoto, Japan; Da Nang, Vietnam; and Vlissingen, Netherlands without leaving the page. Each city has its own miniature, neighborhoods, filters, flight tour, map links, and saved itinerary. Switching resets the view and stops the tour. The last selected city is remembered in this browser.
 
 - Drag to orbit; scroll or pinch to zoom. Right-drag or two-finger drag to pan.
 - Select a labeled landmark or a place in the sidebar for visitor context and a map link.
@@ -26,13 +28,18 @@ Use the city selector in the header to switch between Shenzhen, China; Kyoto, Ja
 
 ## Scope and accuracy
 
-This is a stylized miniature, not a surveyed model or a turn-by-turn navigation service. Landmark coordinates are approximate; roads, surrounding buildings, roof shapes, and heights are simplified. The covered area spans about 3 km north–south in Shenzhen 2.5 km in Kyoto, and roughly 4 km in Da Nang. Da Nang covers the central riverfront and nearby coast; Ba Na Hills, Marble Mountains, and Son Tra Peninsula are outside this miniature. River crossings can add substantial walking distance; use a bridge and verify actual pedestrian routes. Park markers represent a viewpoint or approach, not every entrance. The museum and Civic Center share a complex.
+This is a stylized miniature, not a surveyed model or a turn-by-turn navigation service. Landmark coordinates are approximate; roads, surrounding buildings, roof shapes, and heights are simplified. The covered area spans about 3 km north–south in Shenzhen, 2.5 km in Kyoto, and roughly 4 km in Da Nang. Da Nang covers the central riverfront and nearby coast; Ba Na Hills, Marble Mountains, and Son Tra Peninsula are outside this miniature. River crossings can add substantial walking distance; use a bridge and verify actual pedestrian routes. Park markers represent a viewpoint or approach, not every entrance. The museum and Civic Center share a complex.
 
 Walking estimates use approximate geographic distance multiplied by 1.3, at 4.2 km/h. Lines show itinerary order rather than pedestrian routes. Crossings, indoor passages, park access, hills, and heat can substantially change travel time. Visit durations are planning suggestions, not opening hours. Confirm tickets, reservations, access, and current hours with the venue. No live availability or prices are represented.
 
 The reference video was not present in the available workspace. The architecture is procedurally modeled from recognizable forms, rather than reconstructed from that video.
 
 ## Content references
+
+- Official Vlissingen visitor guide: https://www.zeeland.com/en/visit/islands/walcheren/towns-and-villages/vlissingen
+- Municipal heritage guide: https://www.vlissingen.nl/attractions
+- Oranjemolen: https://www.molens.nl/ontdek-molens/alle-molens/oranjemolen-te-vlissingen
+- Maritime museum: https://www.muzeeum.nl/oranjemolen
 
 - Official Da Nang tourism guide: https://danangfantasticity.com/en
 - Da Nang local markets: https://danangfantasticity.com/en/night-market/famous-local-markets-in-danang
