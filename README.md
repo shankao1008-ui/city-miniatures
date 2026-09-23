@@ -1,6 +1,6 @@
-# Shenzhen, Kyoto, Da Nang & Vlissingen, in miniature
+# City Miniatures — five destinations
 
-A single-file Three.js app with four switchable cities: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; and 15 around the old harbor and boulevard of Vlissingen, Netherlands.
+A single-file Three.js app with five switchable destinations: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; 15 around the old harbor and boulevard of Vlissingen, Netherlands; and 15 landmarks in Machu Picchu, Peru.
 
 ## Open the live website
 
@@ -53,3 +53,13 @@ The reference video was not present in the available workspace. The architecture
 - Cultural venues: https://www.sz.gov.cn/en_szgov/aboutsz/whatson/content/post_12404748.html
 
 The app includes an official guide link and place-specific map searches. Map providers can apply different coordinate conventions in mainland China; use the destination name when confirming navigation.
+
+## Machu Picchu, Peru
+
+[Open Machu Picchu](https://shankao1008-ui.github.io/city-miniatures/?city=machupicchu)
+
+Terraced slopes, fitted stone walls, the curved Temple of the Sun, the Three Windows, a thatched guardhouse, and the Huayna Picchu backdrop form a stylized orientation model. Positions, heights, and shapes are approximate, not a surveyed reconstruction. Mountain trails outside the citadel are not modeled.
+
+Saved landmarks form a wishlist, not a walk. No connecting route or walking-time estimate is drawn for Machu Picchu. Compare interests with the official booked circuit: access and sequence vary, and one ticket may not include all landmarks. The flight tour is virtual.
+
+Sources: [Peru tourism](https://www.peru.travel/attractions/machu-picchu), [official circuits](https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/), [official tickets](https://www.tuboleto.cultura.pe/).
