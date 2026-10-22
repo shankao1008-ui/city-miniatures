@@ -1,6 +1,6 @@
-# City Miniatures — six destinations
+# City Miniatures — seven destinations
 
-A single-file Three.js app with six switchable destinations: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; 15 around the old harbor and boulevard of Vlissingen, Netherlands; and 15 landmarks in Machu Picchu, Peru.
+A single-file Three.js app with seven switchable destinations: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; 15 around the old harbor and boulevard of Vlissingen, Netherlands; and 15 landmarks in Machu Picchu, Peru.
 
 ## Open the live website
 
@@ -71,3 +71,11 @@ Sources: [Peru tourism](https://www.peru.travel/attractions/machu-picchu), [offi
 15 landmarks around Nampo, Gamcheon, and Songdo, with a seven-stop flight tour and separate saved itinerary. This compact southern district excludes Haeundae and Gwangalli. Nampo is suitable for walking; allow bus or taxi transfers for steep Gamcheon and the Songdo extension. Geometry and coordinates are approximate. Cable-car graphics are illustrative; the opposite station is outside the model. Verify routes with Naver Map or KakaoMap.
 
 References: [Busan tourism](https://www.visitbusan.net/en/index.do), [Jung-gu tourism](https://www.bsjunggu.go.kr/eng/index.junggu?menuCd=DOM_000001202001001000), [Busan City Tour](https://citytourbusan.com/ko/file/citytourbusan.pdf).
+
+## New York City — Midtown Manhattan
+
+[Open New York City](https://shankao1008-ui.github.io/city-miniatures/?city=newyork)
+
+16 landmarks from Herald Square to Central Park South, with Art Deco skyscrapers, Grand Central, Times Square, museums, and parks. Includes a seven-stop flight tour, search, district filters, and separate saved itineraries. This compact Midtown model excludes Downtown, Brooklyn, and the Statue of Liberty. Buildings, streets, and coordinates are stylized; walking times exclude queues, street-crossing delays, and indoor access. Observation decks and performances require separate planning.
+
+Sources: [NYC Tourism Midtown](https://www.nyctourism.com/neighborhoods/midtown/), [Empire State Building visitor directions](https://www.esbnyc.com/visit/hours-of-operation), [Top of the Rock](https://www.rockefellercenter.com/tickets/top-of-the-rock-observation-deck).
