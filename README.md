@@ -1,6 +1,6 @@
-# City Miniatures — five destinations
+# City Miniatures — six destinations
 
-A single-file Three.js app with five switchable destinations: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; 15 around the old harbor and boulevard of Vlissingen, Netherlands; and 15 landmarks in Machu Picchu, Peru.
+A single-file Three.js app with six switchable destinations: 15 places in Futian, Shenzhen; 15 around Gion and Higashiyama, Kyoto; 15 from the Han River to My Khe Beach, Da Nang; 15 around the old harbor and boulevard of Vlissingen, Netherlands; and 15 landmarks in Machu Picchu, Peru.
 
 ## Open the live website
 
@@ -63,3 +63,11 @@ Terraced slopes, fitted stone walls, the curved Temple of the Sun, the Three Win
 Saved landmarks form a wishlist, not a walk. No connecting route or walking-time estimate is drawn for Machu Picchu. Compare interests with the official booked circuit: access and sequence vary, and one ticket may not include all landmarks. The flight tour is virtual.
 
 Sources: [Peru tourism](https://www.peru.travel/attractions/machu-picchu), [official circuits](https://www.machupicchu.gob.pe/circuitos-y-rutas-de-visita/), [official tickets](https://www.tuboleto.cultura.pe/).
+
+## Busan, South Korea
+
+[Open Busan](https://shankao1008-ui.github.io/city-miniatures/?city=busan)
+
+15 landmarks around Nampo, Gamcheon, and Songdo, with a seven-stop flight tour and separate saved itinerary. This compact southern district excludes Haeundae and Gwangalli. Nampo is suitable for walking; allow bus or taxi transfers for steep Gamcheon and the Songdo extension. Geometry and coordinates are approximate. Cable-car graphics are illustrative; the opposite station is outside the model. Verify routes with Naver Map or KakaoMap.
+
+References: [Busan tourism](https://www.visitbusan.net/en/index.do), [Jung-gu tourism](https://www.bsjunggu.go.kr/eng/index.junggu?menuCd=DOM_000001202001001000), [Busan City Tour](https://citytourbusan.com/ko/file/citytourbusan.pdf).
